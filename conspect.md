@@ -430,6 +430,5 @@ add_library(sum SHARED plugin_sum.cpp)
 add_executable(main main.cpp)
 target_link_libraries(main ${Boost_LIBRARIES} ${CMAKE_DL_LIBS})
 ```
-- Т.е можно брать классы с виртуальными функциями, от них наследоваться и наследников выносить в плагины.
-
-
+- Т.е можно брать классы с виртуальными функциями, от них наследоваться и наследников выносить в плагины.  
+[hello](./09-211110/00b-special-operators.cpp)
