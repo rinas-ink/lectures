@@ -48,7 +48,7 @@ const int &get_cref() {
 
 int *get_ptr() {
     static int x;
-    return &x;
+    return &x; // *?x + 2 - получили данные по адресу x, то же, что просто x+2
 }
 
 int main() {
