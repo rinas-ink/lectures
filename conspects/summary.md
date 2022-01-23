@@ -39,8 +39,11 @@
 - Move.
 ## [Lecture 13b](../conspects/conspect_13b.md)
 - Функторы. Лямбды. Удаление перегрузки.
-- Линковка, inline. Проблемы с умиранием объектов.ы 
+- Линковка, inline. Проблемы с умиранием объектов.
 ## [Lecture 14](../conspects/conspect_14.md)
--  Value category.
--  5 special methods.
--  Patterns.
+- Value category.
+- 5 special methods.
+- Patterns.
+## [Lecture 15](../conspects/conspect_15.md)
+- Ошибки чтания файлов и разные способы обработки.
+- Исключения.
